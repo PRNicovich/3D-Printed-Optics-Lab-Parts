@@ -1,0 +1,9 @@
+Magnet clips to hold circular magnets (10 mm dia x 2.5 mm thick, counter-sunk heads) at right angle to surface.  
+
+Originally designed for holding lightweight corrugated plastic sheet on optical table for a laser launch enclosure.  Magnets can be sourced easily enough and hot glue is sufficient to hold the magnets in the mounts and the mounts to the sheet.  Black foam core sheet (ie Thorlabs TB4) would be a great sheet material, but sadly expensive to get here in Australia.  Used 2.5 mm corrugated plastic sheet (doubled w/ perpendicular layers) from Bunnings instead.  
+
+Table clips (Table Magnet Mount.stl) are designed to go at bottom of sheet and stick to an optical table.  With proper orientation this is sufficient to hold a 300 mm x 500 mm sheet upright with no other support. 2-3 per sheet of this size worked well. 
+
+Breadboard clips (Breadboard Magnet Mount.stl) are designed to hold magnet at proper position to hang sheet from the edge of a Thorlabs breadboard.  A M6 button head socket screw (make sure it's magnetic!) is put in a free hole of the breadboard edge.  Bottom of this clip aligns against the top surface of the breadboard.  Magnet (w/ counter-sink side towards breadboard) sits atop the socket screw.  In combination with the table clips a tall sheet can be held upright and against an elevated breadboard, or a small sheet hung from the breadboard perpendicularly.  
+
+Clips were printed with breadboard-adjacent face down to avoid support material.  A Zortrax M200 with Z-UltraT filament, 0.19 mm layer height and medium infill was used, though there is enough tolerance that the print settings should be quite permissable. Hot glue is great for holding magnets to clips and clips to sheet, though care must be taken to not use excessive glue to cover the table-adjacent face of the magnet and a fillet of glue around the clip is a good idea if the sheet material is flexible.

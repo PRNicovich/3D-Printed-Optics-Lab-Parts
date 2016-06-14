@@ -1,0 +1,7 @@
+The Lattice Light Sheet uses these odd cantilevered and angled CNC'd mounts to hold the 5 mm coverslips in the right orientation on the microscope.  These same mounts don't sit well on the bench, especially if you're trying to do anything with the coverslip at the same time.  These parts hold the coverslip holder so the sample is parallel to the ground and so you can manipulate the coverslip and holder easily.
+
+As printed, the holders are sufficient, but they can be improved by adding some weight behind the pivot point.  The two holes in the part will accept a press-fit 6 mm rod (ie a spare Thorlabs cage rod).  With this weight you can add a reasonable bit of force to the coverslip end of the LLS sample holder without the printed part tipping.  
+
+Print with part printed perpendicular to the eventual orientation (eg the 6 mm holes sitting upright).  This will avoid needing any support material.  A small layer height will keep the rest of the part smooth.
+
+Printed on a Zortrax M200 w/ Z-UltraT, 0.09 mm layer height, and medium infill.  The files assume ~100 microns of overshoot on the hole size to get a good press fit of the rods in their holes.  On a different printer this may be different and require either drilling out of the hole or a bit of glue to hold things securely.

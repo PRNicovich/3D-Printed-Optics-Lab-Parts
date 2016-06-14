@@ -1,0 +1,9 @@
+Mount to hold fiber optic cable to optical table or extrusion profile. 
+
+Designed for Thorlabs P3-405BPM-FC-2 polarization-maintaining PANDA cable, but any with 3 mm cladding should work. 
+
+Print 1 each of PatchFiberClampBottom.stl and PatchFiberClampTop.stl, insert cable in between, and hold down with M6 or 1/4" screw.  Be careful not to pinch your cable!
+
+Can hold 1 cable on each side of clamp, which makes it good for holding coils of cable secure.  Overall a much better idea than having a free cable flapping around, waiting to get snagged and ruin hours of optical alignment.
+
+Printed on Zortrax M200 w/ Z-UltraT filament, 0.09 mm layer height, and medium infill.  Print with bottom oriented cable-side-down and top cable-side-up for minimum required support material.

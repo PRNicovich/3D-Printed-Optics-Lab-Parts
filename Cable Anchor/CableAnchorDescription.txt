@@ -1,0 +1,5 @@
+Cable Anchor for optical tables or extruded T-slot channel (think 80/20 or any of the similar suppliers).  
+
+Holds a reasonable-sized bundle of cables (up to ~35 mm or 1.5") for up to 5 mm cable ties. Hole fits a M6 or 1/4" button or cap-head socket screw.  Screw the part to the table, lay cables over, then add some cable ties.  
+
+Print in same orientation as will be mounted results in some support material that's a little tricky to remove, but seems to be the best option.  Printed with a Zortrax M200, Z-UltraT filament, 0.19 mm layer height and medium infill, though these parameters are most likely very tolerant to other settings.

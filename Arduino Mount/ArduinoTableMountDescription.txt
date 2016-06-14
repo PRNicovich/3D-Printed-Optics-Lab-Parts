@@ -1,0 +1,9 @@
+Mount to hold an Arduino Uno securely on a metric optical table.  
+
+Originally used in conjunction with the NicoLase laser sequencer BNC breakout shield and Arduino sketch.  Drives up to 6 TTL-modulatable lasers at arbitrary patterns, synced with camera exposure.  See that repo for more info.
+
+Arduino is secured to the mount using M3 or #4-40 screws and captive nuts added to bottom size of mount.  Mount then secured to table using M6 screws.  
+
+Some modification may be necessary if through-hole components of Arduino intersect with mount posts. In that case a sharp knife solves the issue quickly.
+
+Printed on a Zortrax M200 w/ Z-UltraT filament, 0.19 mm layer height, and medium infill.  Tolerances are sufficient that any comparable filament printer should have no issue printing a good part.
