@@ -1,0 +1,5 @@
+Adapter to use Thorlabs XE25DG drill alignment tool with 80/20 25 mm extrusion.  Stock Thorlabs part has a milled plate that slides into extrusion slot and clamps with supplied screw.  This doesn't fit into common 80/20 25 mm extrusion slots, but with this part replacing the milled piece it does.  
+
+Unscrew the old one and screw this one in to use.  Part is plastic with threads which works, but is prone to stripping.  Good thing it's cheap to print a new one when that happens!
+
+Printed on a Zortrax M200 w/ Z-UltraT filament, 0.19 mm layer height, and medium infill, though these are quite flexible.
