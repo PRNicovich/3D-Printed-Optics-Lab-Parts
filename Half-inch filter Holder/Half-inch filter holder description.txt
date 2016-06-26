@@ -2,6 +2,8 @@ Holder for half-inch (12.5 mm) excitation filters.
 
 Originally designed for NicoLase block to go in front of OBIS diode lasers (Coherent) holding Semrock bandpass filters.  Should work for any filter maker up to ~5 mm thick and any laser diode with beam height at 3/4" (19.05 mm) from base (eg Vortran Stradus).  Filter is centered on this 3/4" axis. 
 
+Unspecified file works by sitting on same plane as bottom of laser diode.  The *VORTRAN holder sits on top of the mounting plate of a Vortran Stradus diode head and shares the same M4 mounting screws.  Both use the same face plate.
+
 Base mounts to table or heat sink block with M4 screws.  Filter is held in place in holder with filter holder face, which is secured to holder with 3 x M2 screws and nuts.  No reason comparable imperial sizes won't work. 
 
 STEP file is included in repo if you want to modify design for other sizes or mount heights. 
