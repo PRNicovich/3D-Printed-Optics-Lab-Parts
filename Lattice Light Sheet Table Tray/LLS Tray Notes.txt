@@ -1,0 +1,8 @@
+Lattice Light Sheet table tray
+Catches those tiny screws and coverslips and keeps them from falling into your optical table.
+
+This fits the 3i implementation on an Imperial table top.  Is secured with 1/4"-20 screws at the obvious places.
+
+Made from two parts.  These stack on top of one another to provide a small lip around the edge of the tray.  You could get away with just the Bottom piece but lose the lip.  
+
+We had this laser cut from 3 mm acrylic at a total cost of ~$50 AUD.  
