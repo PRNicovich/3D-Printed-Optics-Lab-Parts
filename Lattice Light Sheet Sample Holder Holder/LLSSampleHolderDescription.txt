@@ -5,3 +5,5 @@ As printed, the holders are sufficient, but they can be improved by adding some 
 Print with part printed perpendicular to the eventual orientation (eg the 6 mm holes sitting upright).  This will avoid needing any support material.  A small layer height will keep the rest of the part smooth.
 
 Printed on a Zortrax M200 w/ Z-UltraT, 0.09 mm layer height, and medium infill.  The files assume ~100 microns of overshoot on the hole size to get a good press fit of the rods in their holes.  On a different printer this may be different and require either drilling out of the hole or a bit of glue to hold things securely.
+
+These parts can be printed on Shapeways for ~$6 for the single holder and ~$15 for the triple holder. This is without the 6 mm rod inserts.

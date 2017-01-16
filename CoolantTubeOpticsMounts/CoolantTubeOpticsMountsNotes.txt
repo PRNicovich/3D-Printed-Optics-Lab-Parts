@@ -14,3 +14,5 @@ Assembly of the cap piece requires the insertion of an M4 nut into the internal 
 For those in the US, The base should fit fine on an Imperial table mounted with 1/4"-20 screws.  An 8-32 nut may be a tight squeeze into the space for the M4 nut (M4 is 7 mm across flats, while 8-32 is almost 9 mm).
 
 The parts work well printed on a Zortrax M200 with Z-UltraT filament and 90 um layer height.  The support material on the threads on the base can be a bit of a pain to remove, so if you can print without support on your printer that'll save a good bit of time (10 degree support threshold on the Zortrax gets this).  The cap is best printed upside-down, with the side to become the top against the build plate.  Depending on the tolerances of your printer, you may need to do some finishing work on the cap to have a part that clamps well onto the tubing pieces without excessive force to move.
+
+For pricing comparisons, as of January 2017, these parts can be uploaded and ordered on Shapeways with printing costs of ~$4 for the cap, $5-6 for the magnet mount, and $5-6 for the table mount.

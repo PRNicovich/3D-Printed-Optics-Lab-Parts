@@ -7,3 +7,5 @@ Print 1 each of PatchFiberClampBottom.stl and PatchFiberClampTop.stl, insert cab
 Can hold 1 cable on each side of clamp, which makes it good for holding coils of cable secure.  Overall a much better idea than having a free cable flapping around, waiting to get snagged and ruin hours of optical alignment.
 
 Printed on Zortrax M200 w/ Z-UltraT filament, 0.09 mm layer height, and medium infill.  Print with bottom oriented cable-side-down and top cable-side-up for minimum required support material.
+
+For pricing comparison, these parts can be printed on Shapeways for $2.50-$3.50 for the base and $2-3 for the cap.

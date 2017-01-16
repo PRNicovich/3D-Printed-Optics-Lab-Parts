@@ -9,3 +9,5 @@ Base mounts to table or heat sink block with M4 screws.  Filter is held in place
 STEP file is included in repo if you want to modify design for other sizes or mount heights. 
 
 Printed on Zortrax M200 w/ Z-UltraT, 0.09 mm layer height, and light infill.  Print with eventual optical axis perpenticular to build plate for strength and minimal support material.  
+
+For cost comparison, these parts can be printed on Shapeways for $2-3 for the face cap and $3.50-5.50 for the holder.
