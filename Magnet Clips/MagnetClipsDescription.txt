@@ -8,4 +8,4 @@ Breadboard clips (Breadboard Magnet Mount.stl) are designed to hold magnet at pr
 
 Clips were printed with breadboard-adjacent face down to avoid support material.  A Zortrax M200 with Z-UltraT filament, 0.19 mm layer height and medium infill was used, though there is enough tolerance that the print settings should be quite permissable. Hot glue is great for holding magnets to clips and clips to sheet, though care must be taken to not use excessive glue to cover the table-adjacent face of the magnet and a fillet of glue around the clip is a good idea if the sheet material is flexible.
 
-For pricing comparisons, a single magnet clip costs ~$3 from if ordered from Shapeways.
+For pricing comparisons, a single magnet clip costs $2-4 from if ordered from Shapeways.  Files to print 16 of each style in one order are included.  These are $7 for the table clips x 16 and $13 for the breadboard clips x 16 when printed this way. The clips need to be separated after printing, but a sharp knife should handle this very well. 
