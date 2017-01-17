@@ -1,0 +1,11 @@
+Mount to hold an Arduino Uno securely onto the NicoLase laser heat sink block.  The mount occupies the same footprint as a Vortran Stradus diode laser (90mm x 30mm rectangle mounting points, M4 screws)  
+
+Originally used in conjunction with the NicoLase laser sequencer BNC breakout shield and Arduino sketch.  Drives up to 6 TTL-modulatable lasers at arbitrary patterns, synced with camera exposure.  This mount takes up a spot in the heat sink block, so 5 more lasers can be mounted onto the same block.  See that repo for more info.
+
+Arduino is secured to the mount using M3 or #4-40 screws and captive nuts added to bottom size of mount.  Mount then secured to a spot in the laser heat sink block using M4 screws.  
+
+Some modification may be necessary if through-hole components of Arduino intersect with mount posts. In that case a sharp knife solves the issue quickly.
+
+Printed on a Zortrax M200 w/ Z-UltraT filament, 0.19 mm layer height, and medium infill.  Tolerances are sufficient that any comparable filament printer should have no issue printing a good part.
+
+As of January 2017, this part can be uploaded and printed on Shapeways for $9-11, depending on color choice.  
