@@ -6,6 +6,6 @@ Volume of chamber is ~190 mL.  With tested objective combinations at least 1" of
 
 Printed on a Stratasys Objet24 photopolymer printer.  Printing on a filament printer is likely a good choice as well, but not one that has been tested.  Regardless of printer be sure to test-fit parts before gluing to see if any additional modification/scraping/sanding is needed to have a good fit between top and insert. 
 
-STEP files included if you want to have this model milled out of an alternative material or make modifications. The insert portion can likely be adapted for a large number of different applications.
+STEP files included if you want to have this model milled out of an alternative material or make modifications. The insert portion can likely be adapted for a large number of different applications using the standard ASI insert size (160 mm x 110 mm). 
 
 As of October 2017, this part can be uploaded and printed on Shapeways for $80-100, depending on color choice.  
