@@ -1,0 +1,11 @@
+Sample holder designed for the diSPIM inverted light sheet microscope.  This holder allows scanning over larger samples than the stock sample holder.  Great in combination with cleared tissue objectives that allow scanning across arbitrarily-large samples. 
+
+Sample holder is in two parts - diSPIMPoolInsert.stl and diSPIMPoolTop.stl.  Print one copy of each per holder. Additionally a 3-1/4" x 4" glass slide forms the bottom of the chamber (Brain Research Lab #3140 used here).  The slide is sealed between the recessed aperture in the insert and the top.  Silicone sealant/caulk works well to join these parts together.  Be sure sealant is well-distributed to prevent leaks between parts. Excess cured sealant can be scraped away with a razor blade afterwards.
+
+Volume of chamber is ~190 mL.  With tested objective combinations at least 1" of travel in all directions from center is allowed without collision between objective and chamber walls. I usually have the sample mounted on a section 1" x 3" slide.  This slide can be glued to a small piece of doubled-over parafilm, which is then glued to the base.  After imaging the sample is peeled away and the glue scraped off.  Double-stick tape is likely a good alternative. Or mount straight to the large-format slide and scrape off afterwards.
+
+Printed on a Stratasys Objet24 photopolymer printer.  Printing on a filament printer is likely a good choice as well, but not one that has been tested.  Regardless of printer be sure to test-fit parts before gluing to see if any additional modification/scraping/sanding is needed to have a good fit between top and insert. 
+
+STEP files included if you want to have this model milled out of an alternative material or make modifications. The insert portion can likely be adapted for a large number of different applications.
+
+As of October 2017, this part can be uploaded and printed on Shapeways for $80-100, depending on color choice.  
