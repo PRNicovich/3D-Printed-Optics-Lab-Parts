@@ -1,0 +1,9 @@
+CAD files for a 3D printed coverslip holder.  This is designed to hold 28 coverslips from 18 mm round to 25 mm square, though down to 12 mm round and larger square coverslips should still work. 
+
+Design parameters were adjusted to work with the ceramic printing constraints on Shapeways.  Files are uploaded and you can order your own here:
+
+https://www.shapeways.com/product/KAKRTALUN/coverslip-wash-holder?optionId=63070814
+
+Cost ~$40 USD as of Oct 2017.  I make $0 from that. 
+
+Note - I have not actually ordered one from ceramic myself yet.  So you can be the first ones to try! Or modify the files here for your own application and let me know how it goes.
