@@ -1,0 +1,78 @@
+Extension cables for scientific cameras.
+
+Currently supporting:
+- Hamamatsu Orca Flash 4.x
+- Photometrics Prime BSI
+
+These cameras come with similar connectors from CUI Inc.  Cable has a 3- or 4-pin circular, push-lock connector.  Camera has PCB-mounted socket.  
+Unfortunately, cable-mounted socket is not available, so a break-out board for each type and a 3D printable housing is included in this repo. 
+
+Build per cable requires board, plug, socket, cable, and housing + 4-40 x 3/8" screws (M3 likely fine, especially if you chase relevant thread holes).   
+Links or part numbers for each are included in relevant build list below.  
+
+Breakout boards are available through OSH Park at links below.  Cost is ~$5-6 for 3 pcs as of July 2019.  
+3D printed housing is available from Shapeways at links below. Cost is $13 + $5 for body + face.
+Board and housing can be manufactured from files included in repo and using your favorite service. 
+
+Assembly involves installed plug on cable, adding housing and board + socket to other end of cable, and screwing together. Few pointers to make this easier:
+- Plugs are a bit tricky to install.  Explode diagrams with build order available on DigiKey or other supplier along with datasheet.  These are a big help.
+- As-printed housing could use some clean-up of cable hole to ensure a good fit to cable. Running a drill bit through this hole works well.  Also not a bad idea to chase the holes for mounting the face plate with a 4-40 tap.
+- Solder socket onto board, then slide housing over cable before soldering on cable.  Can pull on cable to seat board + plug into housing before screwing on face plate.
+- Critical that pins of plug and socket match.  You can try to carefully keep track of which color wire goes to which pin on the plug, then match this on the socket.  A different trick is to assemble plug and solder socket to board.  Then test connectivity between a conductor at what will become the board end of the cable and un-populated pads on the PCB (basically testing conductor end -> cable -> plug -> socket -> PCB connection).  Which pad on PCB shows connection to that given conductor is where that conductor should be soldered, closing the loop. If more than 1 pad shows connectivity to a given conductor, then there's a short somewhere!
+
+Parts required:
+
+----------------------------
+--- Hamamatsu Orca Cable ---
+----------------------------
+
+Orca board :
+https://oshpark.com/shared_projects/MSqPumGF
+
+Plug :
+https://www.digikey.com/product-detail/en/cui-inc/PDP-30/CP-7330-ND/2119403
+
+Socket : 
+https://www.digikey.com/product-detail/en/cui-inc/PD-30/CP-7130-ND/2119330
+
+Cable : 
+https://www.digikey.com/product-detail/en/general-cable-carol-brand/C2406A.41.10/C2406G-50-ND/7381934
+or similar (~8 mm OD, 3 + shield or 4 conductor, 16 AWG per conductor).
+
+Housing:
+https://www.shapeways.com/product/PL4XHLKNY/cablehousingface?optionId=113052017
+https://www.shapeways.com/product/64YXSBK6T/cablehousingbody?optionId=113052271
+
+Screws (Qty 5):
+McMaster-Carr 91772A108 or equivalent
+
+
+------------------------------
+--- Photometrics BSI Cable ---
+------------------------------
+
+
+BSI board:
+https://oshpark.com/shared_projects/4ScC9has
+
+Plug : 
+https://www.digikey.com/products/en?keywords=pdp-40
+
+Socket : 
+https://www.digikey.com/product-detail/en/cui-inc/PD-40/CP-7140-ND/2119331
+
+Cable : 
+https://www.digikey.com/product-detail/en/cnc-tech/540-16-4-WH-0100F/CN585-100-ND/8537876
+or similar (~8 mm OD, 4 conductor, shield optional, 16 AWG per conductor).
+Housing:
+https://www.shapeways.com/product/PL4XHLKNY/cablehousingface?optionId=113052017
+https://www.shapeways.com/product/64YXSBK6T/cablehousingbody?optionId=113052271
+
+Screws (Qty 5):
+McMaster-Carr 91772A108 or equivalent
+
+NB - I found plug + cable assemblies for PDP-40 plug equivalent from GlobeTek, Inc.  Minimum order for production run is very large, but they sold some existing stock for reasonable price ($20/unit).
+https://en.globtek.com/news/molded-equivalent-to-snap-and-lock-or-power-din-plugs-available-for-22-14-awg-cable-for-power-supply-output-connections-or-wire-harness-applications
+GlobeTek part number : KPP42686F00
+
+
